@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rasla/CLionProjects/Multithreaded-Matrix-Multiplication/main.c
+stdio.h
+-
+pthread.h
+-
+stdlib.h
+-
+time.h
+-
+
